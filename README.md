@@ -2,7 +2,9 @@
 
 
 Q1 .  To remove dev branch locally local : git branch -d dev <br />
-        and remotely : git push origin --delete dev<br />
+        and remotely : git push origin --delete dev <br />
+        or git push origin :dev <br />
+
 
 Q2.  to list tags : git tag
 
